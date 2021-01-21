@@ -12,3 +12,18 @@ The Component we use in this project are as follows:
   7. StatusBar
   8. react-native-sound - 3rd party library to handle sound.
   
+  <div>
+  <img src="https://raw.githubusercontent.com/shubhu3dev/react-native-spanishnumberapp/main/images/pic1.png" height="50%" width="50%" alt="Image 1"/>
+  <p>
+   <b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspFigure 1.1</b>
+  </p>
+  </div>
+ 
+
+  </br>
+  <div>
+  <img src="https://raw.githubusercontent.com/shubhu3dev/react-native-spanishnumberapp/main/images/pic2.png" height="50%" width="50%" alt="Image 2"/>
+  <p>
+   <b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspFigure 1.2</b>
+  </p>
+  </div>
